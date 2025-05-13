@@ -1,0 +1,18 @@
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\bin\Debug\net8.0-windows\Proyecto Final.exe
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\bin\Debug\net8.0-windows\Proyecto Final.deps.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\bin\Debug\net8.0-windows\Proyecto Final.runtimeconfig.json
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\bin\Debug\net8.0-windows\Proyecto Final.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\bin\Debug\net8.0-windows\Proyecto Final.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto_Final.Form1.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.AssemblyInfo.cs
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\refint\Proyecto Final.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.pdb
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.genruntimeconfig.cache
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\ref\Proyecto Final.dll
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto_Final.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Trabajos TEC\2do semestre\Prog.Basica\Visual Studio\Proyecto Final\obj\Debug\net8.0-windows\Proyecto Final.csproj.AssemblyReference.cache
